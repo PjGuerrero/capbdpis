@@ -24,8 +24,8 @@
     <link href="/mainassets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 
     <!-- Main CSS File -->
-    <link href="/mainassets/css/style.css" rel="stylesheet">
-    <link href="<?php echo base_url(); ?>//mainassets/css/custom.css" rel="stylesheet">
+    <link href="mainassets/css/style.css" rel="stylesheet">
+    <link href="mainassets/css/custom.css" rel="stylesheet">
   
   
 
