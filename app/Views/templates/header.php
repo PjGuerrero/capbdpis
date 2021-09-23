@@ -25,7 +25,6 @@
 
     <!-- Main CSS File -->
     <link href="mainassets/css/style.css" rel="stylesheet">
-    <link href="mainassets/css/custom.css" rel="stylesheet">
   
   
 
